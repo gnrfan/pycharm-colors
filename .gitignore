@@ -1,0 +1,13 @@
+# Editor/IDE files
+*.swp
+*.swo
+.emacs-project
+\#.#
+*/.#*
+\#*
+.#*
+*~
+*.idea
+
+# OS specific files
+.DS_Store
